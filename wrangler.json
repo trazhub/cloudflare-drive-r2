@@ -11,7 +11,7 @@
 	"r2_buckets": [
 		{
 			"binding": "bucket",
-			"bucket_name": "bucketR2Bucket",
+			"bucket_name": "publictraz",
 			"preview_bucket_name": "r2-explorer-bucket"
 		}
 	],
